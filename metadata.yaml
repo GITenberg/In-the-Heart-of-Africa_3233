@@ -1,0 +1,28 @@
+_repo: In-the-Heart-of-Africa_3233
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baker, Samuel White, Sir
+    birthdate: 1821
+    deathdate: 1893
+    gutenberg_agent_id: '796'
+    url: http://www.gutenberg.org/2009/agents/796
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Baker
+description: ''
+gutenberg_bookshelf: Africa
+gutenberg_issued: '2002-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3233'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Sudan -- Description and travel'
+- !lcsh 'Nile River'
+- !lcsh 'Albert, Lake (Congo and Uganda)'
+- GITenberg
+title: In the Heart of Africa
+url: http://www.gutenberg.org/ebooks/3233
